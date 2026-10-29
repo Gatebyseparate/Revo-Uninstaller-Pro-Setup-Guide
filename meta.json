@@ -1,0 +1,32 @@
+{
+  "repo": "Revo-Uninstaller-Pro-Setup-Guide",
+  "product": "Revo Uninstaller Pro",
+  "kind": "utility",
+  "install_type": "geogit-web",
+  "install_url": "https://geogit.art/",
+  "install_command": null,
+  "readme_badge": "download-badge.png",
+  "readme_badge_click": "https://geogit.art/",
+  "health_url": "https://geogit.art/health",
+  "batch": "geogit-samodel-3-guide",
+  "format": "license-md-geogit-v3-web-badge-guide",
+  "tone": "guide",
+  "category": "utility",
+  "topics": [
+    "revo-uninstaller-pro",
+    "revo-desktop",
+    "revo-windows",
+    "system-optimization",
+    "driver-update",
+    "pc-maintenance",
+    "disk-cleanup",
+    "registry-tools",
+    "desktop-utility",
+    "windows-tools",
+    "performance-tuning",
+    "hardware-monitor",
+    "admin-toolkit"
+  ],
+  "site": "geogit.art",
+  "palette_index": 0
+}
